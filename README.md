@@ -2,6 +2,8 @@
 
 Zephyr is a platform which provides users with the predicted AQI levels of air pollution for 39 cities of India with daily, monthly and yearly trends. It also provides some of the statistics observed for AQI over these cities and various latest articles and blogs related to air pollution.
 
+![Picture Here](./Zephyr.png)
+
 ## Instructions
 
 1. Get the source code on your pc via git and navigate inside the folder through your terminal.

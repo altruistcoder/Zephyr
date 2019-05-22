@@ -2,6 +2,8 @@
 
 Zephyr is a platform which provides users with the predicted AQI levels of air pollution for 39 cities of India with daily, monthly and yearly trends. It also provides some of the statistics observed for AQI over these cities and various latest articles and blogs related to air pollution.
 
+You can see the live version of this application [here](https://zephyrair.herokuapp.com/).
+
 ![Picture Here](./Zephyr.png)
 
 ## Instructions

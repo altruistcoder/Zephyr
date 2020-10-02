@@ -4,6 +4,7 @@ from django.views import View
 from .articles_scrape import get_articles
 from .models import Article
 
+testVariable = None
 
 class Articles(View):
     def get(self, requests, *args, **kwargs):
